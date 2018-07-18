@@ -1,0 +1,4 @@
+User-agent: *
+
+Disallow: /old/*
+Disallow: /nowa/*
